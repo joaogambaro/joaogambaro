@@ -11,7 +11,6 @@ Atualmente estou migrando para a carreira de ciência de dados. Neste perfil pod
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-paulo-gambaro-pinto/)
-
 [![kaggle](https://img.shields.io/badge/kaggle-363636?style=for-the-badge&logo=kaggle&logoColor=white)]()
 <!--
 
