@@ -6,19 +6,6 @@ Possuo graduação em Física pela Universidade Federal de Ouro Preto. Também p
 
 Atualmente estou migrando para a carreira de ciência de dados. Neste perfil podem ser vistos trabalhos que tenho feito nesta área e pacotes com implementações de modelos preditivos baseados em aprendizagem de máquina.
 
-## Descrição dos trabalhos publicados
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-paulo-gambaro-pinto/)
-[![kaggle](https://img.shields.io/badge/kaggle-363636?style=for-the-badge&logo=kaggle&logoColor=white)]()
-<!--
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]
--->
-
 
 ## 🛠 Habilidades
 
@@ -27,6 +14,25 @@ Atualmente estou migrando para a carreira de ciência de dados. Neste perfil pod
 * jupyter
 * Matlab
 * Bibliotecas: Sklearn, Numpy, Pandas, Gnuplot, Seaborn, dentre outras.
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-paulo-gambaro-pinto/)
+[![kaggle](https://img.shields.io/badge/kaggle-363636?style=for-the-badge&logo=kaggle&logoColor=white)]()
+
+<!--
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]
+-->
+
+
+
+
+# Descrição dos trabalhos publicados
+
+## [Body performance](https://github.com/joaogambaro/body_performance)
 
 
 
