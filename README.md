@@ -28,7 +28,8 @@ Atualmente estou migrando para a carreira de ciência de dados. Neste perfil pod
 -->
 
 
-
+<br>
+</br>
 
 # Descrição dos trabalhos publicados
 
