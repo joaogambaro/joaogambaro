@@ -33,7 +33,7 @@ Atualmente estou migrando para a carreira de ciência de dados. Neste perfil pod
 
 # Descrição dos trabalhos publicados
 
-## [Data Science](https://github.com/joaogambaro/DataScience)
+## [Data Science](https://github.com/joaogambaro/data_science)
 Neste repositório encontram-se alguns notebooks com tratamento e análises de dados. Nos trabalhos mostrados não estão incluídos desenvolvimento e implementação de modelos preditivos. Para exemplos de trabalhos com desenvolvimento e implementação destes modelos ver algum dos repositórios listados abaixo
 
 ## [Body performance](https://github.com/joaogambaro/body_performance)
