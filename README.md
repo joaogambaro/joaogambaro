@@ -13,7 +13,8 @@ Atualmente estou migrando para a carreira de ciência de dados. Neste perfil pod
 * C
 * jupyter
 * Matlab
-* Bibliotecas: Sklearn, Numpy, Pandas, Gnuplot, Seaborn, dentre outras.
+* SQL
+* pySpark
 
 
 
@@ -34,11 +35,8 @@ Atualmente estou migrando para a carreira de ciência de dados. Neste perfil pod
 # Descrição dos trabalhos publicados
 
 ## [Data Science](https://github.com/joaogambaro/data_science)
-Neste repositório encontram-se alguns notebooks com tratamento e análises de dados. Nos trabalhos mostrados não estão incluídos desenvolvimento e implementação de modelos preditivos. Para exemplos de trabalhos com desenvolvimento e implementação destes modelos ver algum dos repositórios listados abaixo
-
+Neste repositório encontram-se alguns notebooks com análises de dados. Nos trabalhos mostrados estão incluídos alguns tópicos essenciais em ciências de dados, tais como: limpeza dos dados, análise exploratória, técnicas para visualizações, testes de hipóteses, aplicação de algorítimos supervisionados e não supervisionados, modelos preditivos, dentre outros.
 ## [Body performance](https://github.com/joaogambaro/body_performance)
-Análise dos dados, desenvolvimento de um modelo de classificação, implementação do modelo como um pacote e implementação do modelo como rest API. 
-Os dados fornecem diversas informações de pessoas, tais como, idade, pressão sistólica e diastólica, sexo, entre outras, e fornece uma classificação quanto ao desempenho em exercícios com as letras A, B, C e D. Na classificação, a letra A indica o melhor desempenho e a letra D o pior.
-
+Implementação de um modelo preditivo como um pacote e como rest API. O modelo implementado foi desenvolvido nas [análises de dados](https://github.com/joaogambaro/data_science/tree/master/body_performance) sobre a performance de pessoas em atividades física. Nos dados usados, uma pessoa podes ser classificada com as letras A, B C, e D, de acordo com suas características. A classificação A é obtida quando a performance é a melhor possível e a classificação D está associada à pior performance possível. O modelo implementado possui uma taxa de acerto de aproximadamente 74% nesta classificação.
 
 
