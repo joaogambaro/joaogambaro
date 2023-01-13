@@ -44,5 +44,6 @@ Implementação de um modelo preditivo como um pacote e como rest API. O modelo 
 ## [optimizacao_dataframes](https://github.com/joaogambaro/optimizacao_dataframes)
 Ao carregar dados como dataframes da biblioteca pandas, os métodos usados não escolhem os tipos de cada coluna de forma optimizada. Com isto, muita vezes as escolhas do pandas não são aquelas que ocupam menos memória. Uma forma de optimizar a leitura de dados e reduzir o espaço ocupado na memória por dataframes é escolher adequadamente os tipos e subtipos de cada coluna de dado. Este pacote tem como finalidade auxiliar neste processo. O método principal deste pacote utiliza uma amostra de dados, para encontrar automaticamente os tipos e subtipos de variáveis que reduzem ao máximo o espaço em memória das colunas. Com este método, foi possível observar,  em alguns trabalhos, uma redução de aproximadamente 85% no tamanho ocupado pelos dataframes.
 
-## 
+## [graficos_complementacao](https://github.com/joaogambaro/graficos_complementacao)
+Este pacote contém algumas funções complementares para as construções dos gráficos das [análises de dados](https://github.com/joaogambaro/data_science). Algumas destas funções são: funções de escrevem valores numéricos nos gráficos de barras e de linha, funções que fazem anotações nos gráficos, funções que redefinem os limites dos gráficos, dentre outras.
 
